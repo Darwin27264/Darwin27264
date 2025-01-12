@@ -12,6 +12,8 @@
 
 - 📄 See my [Resume!](https://darwin27264.github.io/my-portfolio/DarwinChen_Resume.pdf)
 
+- 🔗 Check out my portfolio [site](https://darwin27264.github.io/my-portfolio/)
+
 <h2 align="left">🗿 Some Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darwin27264&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&locale=en&layout=compact" alt="darwin27264" /></p>
 
