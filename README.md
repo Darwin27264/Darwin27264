@@ -1,7 +1,8 @@
 <h1 align="center">Hey there👋, I'm Darwin</h1>
-<h3 align="center">Welcome to my GitHub! I am an AI-driven web developer dedicated to building tools that empower users and unlock useful data insights.</h3>
+<h3 align="center">Welcome to my GitHub!</h3>
+<h3 align="center">I am an AI-driven web developer dedicated to building tools that empower users and unlock useful data insights.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darwin27264&label=Profile%20views&color=000000&style=flat" alt="darwin27264" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=darwin27264&label=Profile%20views&color=000000&style=flat" alt="darwin27264" /> </p>
 
 - 🔭 WIP **ISLA**
 
