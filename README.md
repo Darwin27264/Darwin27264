@@ -4,11 +4,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=darwin27264&label=Profile%20views&color=000000&style=flat" alt="darwin27264" /> </p>
 
-- 🔭 WIP **ISLA**
+- 🔭 WIP: **ISLA**
 
-- 📫 How to reach me **darwinchen8@outlook.com**
+- 📫 How to reach me: **darwinchen8@outlook.com**
 
-- 📄 Know about my experiences [https://darwin27264.github.io/my-portfolio/DarwinChen_Resume.pdf](https://darwin27264.github.io/my-portfolio/DarwinChen_Resume.pdf)
+- 📄 See my resume: [Resume](https://darwin27264.github.io/my-portfolio/DarwinChen_Resume.pdf)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darwin27264&show_icons=true&theme=dark&locale=en&layout=compact" alt="darwin27264" /></p>
 
