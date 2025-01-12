@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=darwin27264&label=Profile%20views&color=000000&style=flat" alt="darwin27264" /> </p>
 
 <h2 align="left">☕ About Me:</h3>
-- 🔭 WIP: ISLA - A new form of social media that shows the world the most natural you.
+- 🔭 WIP: ISLA, a new form of social media that shows the world the most natural you. A hybrid between a personal wellness app and for people to see what each other are up to!
 
 - 📫 How to reach me: [Email 📧](mailto:darwinchen8@outlook.com) or [LinkedIn](https://www.linkedin.com/in/darwinchen/)
 
