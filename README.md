@@ -6,7 +6,7 @@
 
 <h2 align="left">☕ About Me:</h3>
 
-- 🔭 WIP: ISLA
+- 🔭 WIP: ISLA = A hybrid between a personal wellness app and a place people to see what each other are up to!
 
 - 📫 How to reach me: [Email 📧](mailto:darwinchen8@outlook.com) or [LinkedIn](https://www.linkedin.com/in/darwinchen/)
 
