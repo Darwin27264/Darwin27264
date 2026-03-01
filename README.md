@@ -6,7 +6,7 @@
 
 <h2 align="left">☕ About Me:</h3>
 
-- 🔭 WIP: ISLA = A personal wellness and social app
+- 🔭 WIP: ofln = A personal on-device llm app
 
 - 📫 How to reach me: [Email 📧](mailto:darwinchen8@outlook.com) or [LinkedIn](https://www.linkedin.com/in/darwinchen/)
 
