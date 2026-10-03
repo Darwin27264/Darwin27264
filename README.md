@@ -25,7 +25,7 @@
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[`ofln`](https://github.com/Darwin27264)** | **Offline On-Device LLM Assistant**<br>Private, zero-network mobile assistant supporting custom persona switching, real-time memory/token telemetry, and multimodal on-device OCR. | `Kotlin` `React Native` `Android NDK` `ONNX/GGUF` | 🟢 Active |
+| **[`ofln`](https://github.com/Darwin27264)** | **Offline On-Device LLM Assistant**<br>Private, zero-network mobile assistant supporting custom persona switching, real-time memory/token telemetry, and multimodal on-device OCR. | `React Native` `Android NDK` `GGUF` `llama.cpp` | 🟢 Active |
 | **Personal Portfolio** | Interactive showcase of projects, technical writings, and professional history. | `React` `GitHub Pages` `TailwindCSS` | 🟢 Maintained |
 
 ---
